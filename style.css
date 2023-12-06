@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(186, 182, 182);
+}
+
+h1 {
+    color: blue;
+}
+
+h2{
+    color: blueviolet;
+}
+
+h3{
+    color: rgb(43, 110, 110);
+}
+
+img{
+    float: left;
+}
